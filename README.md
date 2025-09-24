@@ -29,9 +29,10 @@ Summary Dashboard: KPIs (Applications, Funded Amount, Received Amount, Avg Inter
 Overview Dashboard: Loan Trends, Regional Map, Loan Purpose, Employment & Home Ownership analysis
 Details Dashboard: Grid view for detailed borrower & loan metrics
 
-(Insert dashboard screenshots here in Documentation/screenshots/)
+
 
 📂 Project Structure
 
 SQL_Scripts/ – Queries for loan data analysis
+
 PowerBI_Dashboard/ – PBIX file with interactive reports
